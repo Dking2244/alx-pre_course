@@ -1,1 +1,2 @@
-Second commit
+Through with the task for GitHub
+Thank you GitHub
